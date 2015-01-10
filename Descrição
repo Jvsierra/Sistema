@@ -2,3 +2,6 @@ O programa será dividido em duas partes: estoque e venda. Cada parte terá uma 
 No programa em si, na parte de estoque, o cliente poderá consultar os seus produtos cadastrados no estoque, adicionar novos produtos, dar baixa, etc.
 Na parte de vendas, a cada venda efetuada, o programa guardará na tabela de vendas  a data, a hora, o preço total e a quantidade de produtos vendidos.
 A parte de vendas influenciará diretamente no estoque, pois toda vez que um produto for vendido, a variável da quantidade será alterada na tabela do estoque.
+
+
+Observação: Para haver a venda, deve haver um cliente, deseja inserir a parte de Cadastro de Clientes ?
